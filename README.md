@@ -31,3 +31,5 @@ __melhoria 1__, _melhoria 2_
 #### imagem externa
 
 [Link do google](https://www.google.com)
+[https://www.google.com](https://www.google.com)
+meu perfil: www.github.com/jezandre
