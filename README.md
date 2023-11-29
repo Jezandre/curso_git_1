@@ -47,7 +47,7 @@ if 1+1 == 2:
 
 #### lista de tarefas
 
-- [ x ] Tarefa 1
-- [] Tarefa 2
-- [] Tarefa 3
-- [] Tarefa 4
+- [x] Tarefa 1
+- [ ] Tarefa 2
+- [ ] Tarefa 3
+- [ ] Tarefa 4
