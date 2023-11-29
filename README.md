@@ -25,5 +25,9 @@ __melhoria 1__, _melhoria 2_
 #### imagem local
 ![Logo do Python](Python.png)
 
-#### imagem local
+#### imagem externa
 ![Logo do Python](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ycIMlwgwicqlO6PcFRA-Iw.png)
+
+#### imagem externa
+
+[Link do google](https://www.google.com)
