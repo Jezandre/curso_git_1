@@ -6,11 +6,11 @@ __melhoria 1__, _melhoria 2_
 
 ## Linguagem do projeto
 
-*HTML
-*CSS
-*JavaScript
-*PHP
-*MySQL
+* HTML
+* CSS
+* JavaScript
+* PHP
+* MySQL
 
 ## Funcionalidade a desenvolver
 
