@@ -2,6 +2,6 @@
 
 Aprendendendo a trabalhar com GIT e testando markdown
 
-##Funcionalidades:
+##Funcionalidades:##
 
 testando h1 e h2 
