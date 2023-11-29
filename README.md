@@ -33,3 +33,6 @@ __melhoria 1__, _melhoria 2_
 [Link do google](https://www.google.com)
 [https://www.google.com](https://www.google.com)
 meu perfil: www.github.com/jezandre
+
+
+[![Logo do Python](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ycIMlwgwicqlO6PcFRA-Iw.png)] (www.github.com/jezandre)
